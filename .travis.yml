@@ -9,7 +9,7 @@ before_script:
   - mkdir tests/_temp
 
 script:
-  - vendor\bin\run-tests.bat tests/
+  - vendor/bin/run-tests tests/
 
 after_failure:
   # Print *.actual content
