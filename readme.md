@@ -1,6 +1,13 @@
-Nette Web Project
+N_W_P_TB Project
 =================
 
+[![Build Status](https://travis-ci.org/IJVo/N_W_P_TB.svg?branch=master)](https://travis-ci.org/IJVo/N_W_P_TB)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+Nette Web Project
+=================
 
 This is a simple, skeleton application using the [Nette](https://nette.org). This is meant to
 be used as a starting point for your new projects.
